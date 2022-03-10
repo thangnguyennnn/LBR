@@ -1,0 +1,20 @@
+SMAP
+addCatelogy_jsp.java
+JSP
+*S JSP
+*F
++ 0 addCatelogy.jsp
+addCatelogy.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+5,7:49
+12:56,3
+13,30:59
+43:89,3
+44,9:92
+53:101,3
+54,13:104
+5#1,48:117
+66#0,4:164
+*E
